@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Instance folder
+input_files_from_CaseLaw/
+output_summaries_from_LegalBert_large/
+.ipynb_checkpoints/
+
+# environment files
+*.env
+
