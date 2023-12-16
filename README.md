@@ -31,6 +31,6 @@ It has code used to generate summaries and holdings used in the many experiments
 ## 2 and 3) Training your baselines and your experiments
 - See Jeese' repo for the training details. This repo has code that created the dataset, but it does not directly finetune the models.
 
-## Evaluating the output
+## 4) Evaluating the output
 - Evaluations for NLP Lang Gen has the calculations for the Rouge and Bert scores, as well as plotting them.
 The notebook also aggregates and plots the Summac and Bleurt scores.
