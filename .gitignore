@@ -11,4 +11,4 @@ output_summaries_from_LegalBert_large/
 # environment files
 *.env
 
-process_files_for_demo.csv
+processed_files_for_demo.csv
