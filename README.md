@@ -29,7 +29,7 @@ It has code used to generate summaries and holdings used in the many experiments
 - Mistral Parenthetical Gen was used to create the zero-shot parentheticals locally. The inference was one of many used in our experiments. A single run of inference for test dataset (3.5k) will take more than 12 hours.
 
 ## 2 and 3) Training your baselines and your experiments
-- See Jeese' repo for the training details. This repo has code that created the dataset, but it does not directly finetune the models.
+- See Jesse's repo (finetuning) for the training details. This repo has code that created the dataset, but it does not directly finetune the models.
 
 ## 4) Evaluating the output
 - Evaluations for NLP Lang Gen has the calculations for the Rouge and Bert scores, as well as plotting them.
